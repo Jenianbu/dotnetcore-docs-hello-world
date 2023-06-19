@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'jenistalin'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AED397A11C474D2B9F588DC0B1F2F1BB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A75F44D5A68F4D9AB3518741723C6FBA }}
           package: .
